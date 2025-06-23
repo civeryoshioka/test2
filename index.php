@@ -6,6 +6,7 @@
     <title>Test Page</title>
 </head>
 <body>
+    <h2>Blog Page</h2>
     <h1>Halaman Eevent</h1>
 
     <li>Konser Yui Tokyo (25 Juni 2025)</li>
@@ -18,6 +19,8 @@
     <p>Berita Konser Yui di Fukuoka</p>
     <p>Berita Konser Yui di Tokyo</p>
     <p>Berita Konser Selanjutnya dibulan Juli</p>
+
+
 
 </body>
 </html>
