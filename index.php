@@ -11,6 +11,8 @@
     <li>Konser Yui Tokyo (25 Juni 2025)</li>
     <li>Konser Yui Fukuoka (32 Juni 2025)</li>
     <li>Konser Do As Infinity Tokyo (30 Juni 2025)</li>
-    
+
+    <h1>Halaman Berita</h1>
+
 </body>
 </html>
