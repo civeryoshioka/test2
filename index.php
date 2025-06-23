@@ -17,6 +17,7 @@
     <p>Berita Konser Yui di Tokyo</p>
     <p>Berita Konser Yui di Fukuoka</p>
     <p>Berita Konser Yui di Tokyo</p>
-    
+    <p>Berita Konser Selanjutnya dibulan Juli</p>
+
 </body>
 </html>
