@@ -16,5 +16,8 @@
         <br><br>
         <button type="submit">Login</button>
     </form>
+<footer>
+    <p>&copy; <?php echo date("Y"); ?> Your Company. All rights reserved.</p>
+</footer>
 </body>
 </html>
