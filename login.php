@@ -6,6 +6,12 @@
     <title>Login</title>
 </head>
 <body>
+<?php
+// Pengumuman sederhana
+echo "<div>";
+echo "<strong>Pengumuman:</strong> Silakan login menggunakan username dan password Anda.";
+echo "</div><br>";
+?>
     <h2>Halaman Login</h2>
     <form action="process_login.php" method="post">
         <label for="username">Username:</label>
