@@ -20,6 +20,8 @@
     <p>Berita Konser Yui di Tokyo</p>
     <p>Berita Konser Selanjutnya dibulan Juli</p>
 
+    <h1>Halaman Kontak</h1>
+
 
 
 </body>
