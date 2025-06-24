@@ -6,7 +6,7 @@
     <title>Login</title>
 </head>
 <body>
-    <h2>Login Page</h2>
+    <h2>Halaman Login</h2>
     <form action="process_login.php" method="post">
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required>
@@ -17,7 +17,7 @@
         <button type="submit">Login</button>
     </form>
 <footer>
-    <p>&copy; <?php echo date("Y"); ?> Your Company. All rights reserved.</p>
+    <p>&copy; <?php echo date("Y"); ?> PENS.ltd. All rights reserved.</p>
 </footer>
 </body>
 </html>
