@@ -21,7 +21,12 @@
     <p>Berita Konser Selanjutnya dibulan Juli</p>
 
     <h1>Halaman Kontak</h1>
-
+    <ul>
+        <li>Email: info@example.com</li>
+        <li>Telepon: 0812-3456-7890</li>
+        <li>Instagram: @example</li>
+        <li>Alamat: Jl. Mawar No. 123, Jakarta</li>
+    </ul>
 
 
 </body>
