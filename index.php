@@ -6,7 +6,7 @@
     <title>Test Page</title>
 </head>
 <body>
-    <h2>Blog Page</h2>
+    <h2>My Personl Page Page </h2>
     <h1>Halaman Eevent</h1>
 
     <li>Konser Yui Tokyo (25 Juni 2025)</li>
